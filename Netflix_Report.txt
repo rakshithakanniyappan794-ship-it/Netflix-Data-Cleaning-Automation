@@ -1,0 +1,24 @@
+
+NETFLIX DATA REPORT
+
+Total Records: 8804
+
+Movies:
+type
+Movie      6128
+TV Show    2676
+Name: count, dtype: int64
+
+Top Countries:
+country
+United States     2815
+India              972
+Unknown            831
+United Kingdom     419
+Japan              245
+South Korea        199
+Canada             181
+Spain              145
+France             124
+Mexico             110
+Name: count, dtype: int64
